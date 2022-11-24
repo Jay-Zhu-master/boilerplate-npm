@@ -1,7 +1,6 @@
-	"author": "Jay Zhu",
 {
-  
 	"name": "fcc-learn-npm-package-json",
+  "author": "Jay Zhu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
